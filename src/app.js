@@ -47,4 +47,4 @@ function createApp(repository) {
 }
 module.exports = { createApp };
 
-const resultado = variableQueNoExiste + 1;
+
